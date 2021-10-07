@@ -11,10 +11,9 @@ Hi there 👋 I'm Akshada Shelar
 </a>
 
 ### About Me.....
-- 📚 I'm a **Computer Engineering Student**
+- 📚 I'm a **Computer Engineer**
 - 😄 I'm **Developer** | **Programmer** | **Learner**
 - 🌱 Currently Learning **Java**, **Python** And **Machine Learning**
-- 🤔 Looking for help with **Internships**
 - Willing to contribute more and more in **Open Source Projects**
 - ⚡ Languages: **C++**, **Java**, **HTML**, **Python**
 
