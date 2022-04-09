@@ -11,7 +11,7 @@ Hi there 👋 I'm Akshada Shelar
 </a>
 
 ### About Me.....
-- 📚 I'm a **Computer Engineer**
+- 📚 I'm a **Computer Engineer** | Currently working as **Software Engineer at HSBC**
 - 😄 I'm **Developer** | **Programmer** | **Learner**
 - 🌱 Currently Learning **Java**, **Python** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
